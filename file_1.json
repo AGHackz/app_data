@@ -2,8 +2,346 @@
     "description": "A list of English verbs.",
     "verbs": [
         {
-            "present": "accept",
-            "past": "accepted"
+            "present": "Abash",
+            "past": "लज्जित करना",
+            "past_participle": "Abashed",
+            "present_participle": "Abashed"
+        },
+        {
+            "present": "Abate",
+            "past": "रोक-थाम करना",
+            "past_participle": "Abated",
+            "present_participle": "Abated"
+        },
+        {
+            "present": "Abide",
+            "past": "रहना, टिकना",
+            "past_participle": "Abode",
+            "present_participle": "Abode"
+        },
+        {
+            "present": "Absorb",
+            "past": "सोख लेना",
+            "past_participle": "Absorbed",
+            "present_participle": "Absorbed"
+        },
+        {
+            "present": "Accept",
+            "past": "स्वीकार करना",
+            "past_participle": "Accepted",
+            "present_participle": "Accepted"
+        },
+        {
+            "present": "Ache",
+            "past": "पीड़ा होना",
+            "past_participle": "Ached",
+            "present_participle": "Ached"
+        },
+        {
+            "present": "Achieve",
+            "past": "हासिल करना",
+            "past_participle": "Achieved",
+            "present_participle": "Achieved"
+        },
+        {
+            "present": "Acquire",
+            "past": "प्राप्त करना",
+            "past_participle": "Acquired",
+            "present_participle": "Acquired"
+        },
+        {
+            "present": "Act",
+            "past": "अभिनय करना",
+            "past_participle": "Acted",
+            "present_participle": "Acted"
+        },
+        {
+            "present": "Activate",
+            "past": "सक्रीय होना",
+            "past_participle": "Activated",
+            "present_participle": "Activated"
+        },
+        {
+            "present": "Actuate",
+            "past": "उकसाना",
+            "past_participle": "Actuated",
+            "present_participle": "Actuated"
+        },
+        {
+            "present": "Add",
+            "past": "जोड़ना",
+            "past_participle": "Added",
+            "present_participle": "Added"
+        },
+        {
+            "present": "Address",
+            "past": "संबोधित करना",
+            "past_participle": "Addressed",
+            "present_participle": "Addressed"
+        },
+        {
+            "present": "Adjust",
+            "past": "संबोधित करना",
+            "past_participle": "Adjusted",
+            "present_participle": "Adjusted"
+        },
+        {
+            "present": "Admire",
+            "past": "प्रशंसा करना",
+            "past_participle": "Admired",
+            "present_participle": "Admired"
+        },
+        {
+            "present": "Admit",
+            "past": "भर्ती होना, करना",
+            "past_participle": "Admitted",
+            "present_participle": "Admitted"
+        },
+        {
+            "present": "Advise",
+            "past": "सलाह देना",
+            "past_participle": "Advised",
+            "present_participle": "Advised"
+        },
+        {
+            "present": "Affect",
+            "past": "प्रभाव डालना",
+            "past_participle": "Affected",
+            "present_participle": "Affected"
+        },
+        {
+            "present": "Afford",
+            "past": "बर्दास्त करना",
+            "past_participle": "Afforded",
+            "present_participle": "Afforded"
+        },
+        {
+            "present": "Agree",
+            "past": "सहमत होना",
+            "past_participle": "Agreed",
+            "present_participle": "Agreed"
+        },
+        {
+            "present": "Aim",
+            "past": "लक्ष होना, इरादा रखना",
+            "past_participle": "Aimed",
+            "present_participle": "Aimed"
+        },
+        {
+            "present": "Alert",
+            "past": "चेतावनी देना",
+            "past_participle": "Alerted",
+            "present_participle": "Alerted"
+        },
+        {
+            "present": "Alight",
+            "past": "प्रदीप्त करना",
+            "past_participle": "Alighted",
+            "present_participle": "Alighted"
+        },
+        {
+            "present": "Allow",
+            "past": "अनुमति देना",
+            "past_participle": "Allowed",
+            "present_participle": "Allowed"
+        },
+        {
+            "present": "Amuse",
+            "past": "मन बहलाना",
+            "past_participle": "Amused",
+            "present_participle": "Amused"
+        },
+        {
+            "present": "Analyze",
+            "past": "विश्लेषण करना",
+            "past_participle": "analyzed",
+            "present_participle": "analyzed"
+        },
+        {
+            "present": "Animate",
+            "past": "उत्तेजित, चेतन करना",
+            "past_participle": "Animated",
+            "present_participle": "Animated"
+        },
+        {
+            "present": "Announce",
+            "past": "घोषणा करना",
+            "past_participle": "Announced",
+            "present_participle": "Announced"
+        },
+        {
+            "present": "Annoy",
+            "past": "सताना, गुस्सा दिलाना",
+            "past_participle": "Annoyed",
+            "present_participle": "Annoyed"
+        },
+        {
+            "present": "Answer",
+            "past": "उत्तर देना",
+            "past_participle": "Answered",
+            "present_participle": "Answered"
+        },
+        {
+            "present": "Apologize",
+            "past": "क्षमा मांगना",
+            "past_participle": "Apologized",
+            "present_participle": "Apologized"
+        },
+        {
+            "present": "Appear",
+            "past": "दिखना, प्रकट होना",
+            "past_participle": "Appeared",
+            "present_participle": "Appeared"
+        },
+        {
+            "present": "Applaud",
+            "past": "सराहना",
+            "past_participle": "Applauded",
+            "present_participle": "Applauded"
+        },
+        {
+            "present": "Apply",
+            "past": "लागू करना",
+            "past_participle": "Applied",
+            "present_participle": "Applied"
+        },
+        {
+            "present": "Appreciate",
+            "past": "सरहना करना",
+            "past_participle": "Appreciated",
+            "present_participle": "Appreciated"
+        },
+        {
+            "present": "Approach",
+            "past": "निकट आना, प्रस्ताव करना",
+            "past_participle": "Approached",
+            "present_participle": "Approached"
+        },
+        {
+            "present": "Approve",
+            "past": "मंजूर करना",
+            "past_participle": "Approved",
+            "present_participle": "Approved"
+        },
+        {
+            "present": "Argue",
+            "past": "बहस करना",
+            "past_participle": "Argued",
+            "present_participle": "Argued"
+        },
+        {
+            "present": "Arise",
+            "past": "उठना",
+            "past_participle": "Arose",
+            "present_participle": "Arisen"
+        },
+        {
+            "present": "Arrange",
+            "past": "व्यवस्था करना",
+            "past_participle": "Arranged",
+            "present_participle": "Arranged"
+        },
+        {
+            "present": "Arrest",
+            "past": "गिरफ्तार करना",
+            "past_participle": "Arrested",
+            "present_participle": "Arrested"
+        },
+        {
+            "present": "Ask",
+            "past": "पूछना",
+            "past_participle": "Asked",
+            "present_participle": "Asked"
+        },
+        {
+            "present": "Assemble",
+            "past": "इक्कठा करना",
+            "past_participle": "Assembled",
+            "present_participle": "Assembled"
+        },
+        {
+            "present": "Assert",
+            "past": "दावा करना, जोर देना",
+            "past_participle": "Asserted",
+            "present_participle": "Asserted"
+        },
+        {
+            "present": "Assort",
+            "past": "छांटना",
+            "past_participle": "Assorted",
+            "present_participle": "Assorted"
+        },
+        {
+            "present": "Assume",
+            "past": "मानना, ग्राह्य धरना",
+            "past_participle": "Assumed",
+            "present_participle": "Assumed"
+        },
+        {
+            "present": "Astonish",
+            "past": "चकित करना",
+            "past_participle": "Astonished",
+            "present_participle": "Astonished"
+        },
+        {
+            "present": "Attach",
+            "past": "सलग्न करना",
+            "past_participle": "Attached",
+            "present_participle": "Attached"
+        },
+        {
+            "present": "Attack",
+            "past": "आक्रमण करना",
+            "past_participle": "Attacked",
+            "present_participle": "Attacked"
+        },
+        {
+            "present": "Attain",
+            "past": "हासिल, प्राप्त करना",
+            "past_participle": "Attained",
+            "present_participle": "Attained"
+        },
+        {
+            "present": "Attempt",
+            "past": "प्रयास, प्रयत्न करना",
+            "past_participle": "Attempted",
+            "present_participle": "Attempted"
+        },
+        {
+            "present": "Attend",
+            "past": "किसी समारोह में भाग लेना",
+            "past_participle": "Attended",
+            "present_participle": "Attended"
+        },
+        {
+            "present": "Attract",
+            "past": "आकर्षित करना",
+            "past_participle": "Attracted",
+            "present_participle": "Attracted"
+        },
+        {
+            "present": "Audit",
+            "past": "लेखा-जोखा करना",
+            "past_participle": "Audited",
+            "present_participle": "Audited"
+        },
+        {
+            "present": "Avoid",
+            "past": "किसी को टालना, नजरअंदाज",
+            "past_participle": "Avoided",
+            "present_participle": "Avoided"
+        },
+        {
+            "present": "Awake",
+            "past": "जागना, चौकन्ना",
+            "past_participle": "Awoke",
+            "present_participle": "Awoken"
+        },
+        {
+            "present": "Award",
+            "past": "पुरष्कार, बक्षिस देना",
+            "past_participle": "Awarded",
+            "present_participle": "Awarded"
         }
     ]
 }
